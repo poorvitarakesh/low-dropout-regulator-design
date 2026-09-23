@@ -1,0 +1,6 @@
+*.cdslck
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
